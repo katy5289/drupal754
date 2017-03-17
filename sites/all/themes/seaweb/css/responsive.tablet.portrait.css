@@ -1,0 +1,21 @@
+body {
+  padding: 0 8px;
+}
+h1#site-name {
+  font-size: 1.6em;
+}
+
+h1#site-slogan {
+  font-size: 1.1em;
+}
+
+#menu-bar .menu-wrapper li a,
+#menu-bar .menu-wrapper .menu li a {
+  padding: 0 1em;
+  font-size: .8em;
+}
+#menu-bar .menu-wrapper li,
+#menu-bar .menu-wrapper .menu li {
+  margin-right: 2px;
+  margin-left: 2px;
+}
